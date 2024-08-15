@@ -47,7 +47,7 @@ def page_after_login():
             # ========================================================
             # ========================================================================
 
-    txt = "SIDDHESHWAR CLINIC"
+    txt = "CLINIC"
     heading = Label(lgn_frame, text=txt, font=('yu gothic ui', 25, "bold"), bg="#9AECF5",
                                  fg='black',
                                  bd=5,
